@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bodenmiller",
+    "oncran": true
+  },
+  {
+    "package": "cytofan",
+    "oncran": true
+  },
+  {
+    "package": "hilbertSimilarity",
+    "oncran": true
+  },
+  {
+    "package": "Radviz",
+    "oncran": true
+  }
+]
