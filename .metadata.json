@@ -1,10 +1,10 @@
 [
   {
-    "package": "bodenmiller",
+    "package": "cytofan",
     "oncran": true
   },
   {
-    "package": "cytofan",
+    "package": "Radviz",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "Radviz",
+    "package": "bodenmiller",
     "oncran": true
   }
 ]
