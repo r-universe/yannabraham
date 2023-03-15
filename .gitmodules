@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bodenmiller"]
+	path = bodenmiller
+	url = https://github.com/yannabraham/bodenmiller
+	shallow = true
+	registered = true
 [submodule "cytofan"]
 	path = cytofan
 	url = https://github.com/yannabraham/cytofan
-	shallow = true
-	registered = true
-[submodule "Radviz"]
-	path = Radviz
-	url = https://github.com/yannabraham/radviz
 	shallow = true
 	registered = true
 [submodule "hilbertSimilarity"]
@@ -18,8 +18,8 @@
 	url = https://github.com/yannabraham/hilbertsimilarity
 	shallow = true
 	registered = true
-[submodule "bodenmiller"]
-	path = bodenmiller
-	url = https://github.com/yannabraham/bodenmiller
+[submodule "Radviz"]
+	path = Radviz
+	url = https://github.com/yannabraham/radviz
 	shallow = true
 	registered = true
