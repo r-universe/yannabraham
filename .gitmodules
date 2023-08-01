@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Radviz"]
+	path = Radviz
+	url = https://github.com/yannabraham/radviz
 [submodule "bodenmiller"]
 	path = bodenmiller
 	url = https://github.com/yannabraham/bodenmiller
@@ -11,6 +14,3 @@
 [submodule "hilbertSimilarity"]
 	path = hilbertSimilarity
 	url = https://github.com/yannabraham/hilbertsimilarity
-[submodule "Radviz"]
-	path = Radviz
-	url = https://github.com/yannabraham/radviz
